@@ -6,7 +6,7 @@
 
 <h2 align=""> ✨ About me </h2>
 
-I'm currently pursuing my Ph.D. studies in Particle Physics, working in HH<arrow>4b Analysis.
+I'm currently pursuing my Ph.D. in the field of High Energy Physics, working on Higgs boson pair production analysis: HH<arrow>4b, including an instrumental part on the future trajectograph ("ITk") planned for the "high luminosity" phase (2026-) of ATLAS..
 ....
 ....
 

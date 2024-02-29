@@ -1,4 +1,5 @@
-## <h2 align="center"> ⴰⵣⵓⵍ <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="25px" width="25px"> Azul 
+## <h2 align="center"> ⴰⵣⵓⵍ <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="25px" width="25px"> Azul
+### <h2 align="center"> ⵜⵉⵣⵉⵔⵉ 👩🏻‍💻 ⴰⵎⴻⵥⴰ </h1>
 #### <h2 align="center"> I am ⵜⵉⵣⵉⵔⵉ 🌘 Pronouns me as `Thiziri` 🌒</h1>
 </div>
 

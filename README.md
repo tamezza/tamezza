@@ -6,12 +6,11 @@
 <img align="right"  src="https://user-images.githubusercontent.com/53329034/123502306-0fcdfc80-d669-11eb-87e4-d24cccfbbd00.gif" />
 
 <h2 align=""> ✨ About me </h2>
-
-I'm a Ph.D. student in Particle Physics, working on Higgs boson pair production analysis: HH<arrow>4b, including an instrumental part on the future trajectograph ("ITk") planned for the "high luminosity" phase (2026-) of ATLAS detector..
+Ph.D. student in Particle Physics, working on Higgs boson pair production analysis: HH<arrow>4b, including an instrumental part on the future trajectograph ("ITk") planned for the "high luminosity" phase (2026-) of ATLAS detector..
 
 - 🎓 MSc. Nuclear and Subnuclear Physics [UNIBO](https://www.unibo.it/it) 
-- 🌍 MSc. Geophysics: Earth Physics [USTHB](https://www.usthb.dz) 
-- 🏛 PhD Student at [SU](https://www.sorbonne-universite.fr) ⚛️ [LPNHE](http://lpnhe.in2p3.fr)
+- 🌍 MSc. Geophysics - Earth Physics [USTHB](https://www.usthb.dz) 
+- 🏛 Ph.D. Student at [SU](https://www.sorbonne-universite.fr) ⚛️ [LPNHE](http://lpnhe.in2p3.fr)
 - 💻 Data Science | ML  
 - 🔭 Exploring Di-Higgs Production for New Physics of the Univers
 - ⚡ Empowering Women in Nuclear

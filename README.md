@@ -41,6 +41,7 @@ Ph.D. student in Particle Physics, working on Higgs boson pair production analys
 <img src="https://img.shields.io/badge/C_Sharp-239120?style=flat-square&logo=csharp&logoColor=white" />
 <img src="https://img.shields.io/badge/Python-FFD43B?style=flat-square&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+<img src="https://root.cern.ch/img/logos/ROOT_Logo.svg" height="25"/>
 <!--  
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white" />

@@ -12,7 +12,7 @@ Ph.D. student in Particle Physics, working on Higgs boson pair production analys
 
 - 🎓 MSc. Nuclear and Subnuclear Physics [UNIBO](https://www.unibo.it/it) 
 - 🌍 MSc. Geophysics - Earth Physics [USTHB](https://www.usthb.dz) 
-- 🏛 Ph.D. Student at [SU](https://www.sorbonne-universite.fr) ⚛️ [LPNHE](http://lpnhe.in2p3.fr)
+- 🏛 Ph.D. Student at [SU](https://www.sorbonne-universite.fr) ⚛️ [LPNHE](http://lpnhe.in2p3.fr) [ATLAS](https://atlas.cern)|[CERN](https://home.cern/fr)
 - 💻 Data Science | ML  
 - 🔭 Exploring Di-Higgs Production for New Physics of the Univers
 - ⚡ Empowering Women in Nuclear

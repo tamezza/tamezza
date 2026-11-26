@@ -8,10 +8,10 @@ Now I bring the same habits to <b>markets, data and software</b>: measure carefu
 
 <p align="center">
   <a href="https://tamezza.github.io"><img src="https://img.shields.io/badge/Website-tamezza.github.io-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/amezzathiziri"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://www.malt.fr/profile/thiziriamezza"><img src="https://img.shields.io/badge/Malt-Freelance-FC5757?style=for-the-badge"></a>
-  <a href="https://orcid.org/YOUR-ORCID"><img src="https://img.shields.io/badge/ORCID-Publications-A6CE39?style=for-the-badge&logo=orcid&logoColor=white"></a>
-  <a href="mailto:thiziriamezza@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://orcid.org/0009-0008-5694-4752"><img src="https://img.shields.io/badge/ORCID-Publications-A6CE39?style=for-the-badge&logo=orcid&logoColor=white"></a>
+  <a href="mailto:amezzathiziri@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
 ---
@@ -139,6 +139,7 @@ Now I bring the same habits to <b>markets, data and software</b>: measure carefu
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=tamezza&show_icons=true&hide_border=true" />
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tamezza&layout=compact&hide_border=true" />
 </p>
+
 <p align="center">
   <img alt="Programming" src="https://raw.githubusercontent.com/tamezza/tamezza.github.io/main/coding.png" height="300" />
 </p>
@@ -148,8 +149,9 @@ Now I bring the same habits to <b>markets, data and software</b>: measure carefu
 ## 🔥 Let's connect
 
 <p align="center">
-📫 <a href="mailto:thiziriamezza@gmail.com">Email</a> · <a href="https://www.linkedin.com/in/YOUR-LINKEDIN">LinkedIn</a> · <a href="https://tamezza.github.io">Website</a> · <a href="https://www.malt.fr/profile/thiziriamezza">Malt</a>
+📫 <a href="mailto:amezzathiziri@gmail.com">Email</a> · <a href="https://www.linkedin.com/in/amezzathiziri">LinkedIn</a> · <a href="https://tamezza.github.io">Website</a> · <a href="https://www.malt.fr/profile/thiziriamezza">Malt</a>
 </p>
+
 <p align="center">
   <a href="https://www.buymeacoffee.com/ThiziriAmezza"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="168" alt="Buy me a coffee ☕" /></a>
 </p>

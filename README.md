@@ -1,4 +1,5 @@
-<h1 align="center">Hi, I'm Thiziri Amezza 👋</h1>
+<h2 align="center">ⴰⵣⵓⵍ <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="25px" width="25px"> Azul</h2>
+<h1 align="center">I am ⵜⵉⵣⵉⵔⵉ 🌘 Pronounce me as <code>Thiziri</code> 🌒</h1>
 <h3 align="center">PhD Physicist · Quantitative Research · Data Science · C++/Python</h3>
 
 <p align="center">
@@ -11,12 +12,14 @@ Now I bring the same habits to <b>markets, data and software</b>: measure carefu
   <a href="https://www.linkedin.com/in/amezzathiziri"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://www.malt.fr/profile/thiziriamezza"><img src="https://img.shields.io/badge/Malt-Freelance-FC5757?style=for-the-badge"></a>
   <a href="https://orcid.org/0009-0008-5694-4752"><img src="https://img.shields.io/badge/ORCID-Publications-A6CE39?style=for-the-badge&logo=orcid&logoColor=white"></a>
-  <a href="mailto:amezzathiziri@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="mailto:thiziriamezza@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
 ---
 
 ## ✨ About me
+
+<img align="right" width="340" alt="Working on a sofa" src="https://user-images.githubusercontent.com/53329034/123502306-0fcdfc80-d669-11eb-87e4-d24cccfbbd00.gif" />
 
 - 🏛 **PhD in Particle Physics**, [Sorbonne Université](https://www.sorbonne-universite.fr) ⚛️ [LPNHE](http://lpnhe.in2p3.fr) · [ATLAS Experiment](https://atlas.cern) | [CERN](https://home.cern) (2026)
   > 📄 *Study of di-Higgs production for new physics and upgrade of the tracker of the ATLAS experiment for the high-luminosity phase of the LHC* · [defence slides](https://indico.in2p3.fr/event/40918/contributions/178817/attachments/104320/162770/Defence.pdf)

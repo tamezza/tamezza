@@ -139,9 +139,17 @@ Now I bring the same habits to <b>markets, data and software</b>: measure carefu
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=tamezza&show_icons=true&hide_border=true" />
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tamezza&layout=compact&hide_border=true" />
 </p>
+<p align="center">
+  <img alt="Programming" src="https://raw.githubusercontent.com/tamezza/tamezza.github.io/main/coding.png" height="300" />
+</p>
+
+<p align="center"><code>Quant</code> <code>Data-Science</code> <code>AI</code> <code>ML</code> <code>HEP</code></p>
 
 ## 🔥 Let's connect
 
 <p align="center">
 📫 <a href="mailto:thiziriamezza@gmail.com">Email</a> · <a href="https://www.linkedin.com/in/YOUR-LINKEDIN">LinkedIn</a> · <a href="https://tamezza.github.io">Website</a> · <a href="https://www.malt.fr/profile/thiziriamezza">Malt</a>
+</p>
+<p align="center">
+  <a href="https://www.buymeacoffee.com/ThiziriAmezza"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="168" alt="Buy me a coffee ☕" /></a>
 </p>
